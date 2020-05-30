@@ -10,51 +10,46 @@ Name: SnapBreak
 Author: OsossTech <ososstech.team@gmail.com>
 Icon: ./imgs/SnapBreak.png
 
-Package: com.ososstech.appstore++
-Priority: optional
-Section: Tweaks
-Maintainer: ososstech
-Architecture: iphoneos-arm
+Package: com.ososstech.appsrore++
 Version: 0.9.10
-Depends: firmware (>= 11.0), mobilesubstrate, com.rpetrich.rocketbootstrap
-Conflicts: com.unlimapps.uaupdatetools
-Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.5
-Name: AppStore++
-Author: CokePokes
-Depiction: https://ososstech.github.io/ososstech/
-
-Package: com.ososstech.cracktool4
 Section: Tweaks
-Maintainer: ososstech
+Maintainer: OsossTech <ososstech.team@gmail.com>
+Depends: firmware (>= 10.0), mobilesubstrate
 Architecture: iphoneos-arm
+Filename: ./debs/Appstore++.deb
+Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.5
+Name: Appstore++
+Author: OsossTech <ososstech.team@gmail.com>
+
+Package: com.ososstech.CrackTool4
 Version: 4.0~beta9c
-Depends: ldid (>= 2.1.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools
-Description: Crack Tweaks on one click !
+Section: Tweaks
+Maintainer: OsossTech <ososstech.team@gmail.com>
+Depends: firmware (>= 10.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/Cracktool4.deb
+Description: Crack Tweaks on one click
 Name: CrackTool4
-Depiction: https://ososstech.github.io/ososstech/
-Author: julioverne
+Author: OsossTech <ososstech.team@gmail.com>
 
 Package: com.ososstech.cydown
-Section: Tweaks
-Maintainer: Julio
-Architecture: iphoneos-arm
 Version: 7.1.0
-Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
-Description: Cydia Download Manager & Extra Features!
-Name: CyDown
-Author: julioverne
-Depiction: https://ososstech.github.io/ososstech/ description.html?id=com.julioverne.cydown
-
-Package: com.ososstech.audiorecorderxs
 Section: Tweaks
-Installed-Size: 21550
-Maintainer: Limneos
+Maintainer: OsossTech <ososstech.team@gmail.com>
+Depends: firmware (>= 10.0), mobilesubstrate
 Architecture: iphoneos-arm
+Filename: ./debs/CyDown.deb
+Description: Cydia , Zebra , Installer Download Manager & Extra Features!
+Name: CyDown
+Author: OsossTech <ososstech.team@gmail.com>
+
+Package: com.ososstech.snapbreak
 Version: 3.5-32
-Replaces: net.limneos.audiorecorder, net.limneos.audiorecorderx
-Depends: mobilesubstrate, preferenceloader, net.limneos.simpleactivationactions, firmware (>= 12.0), ru.rejail.limneosos
-Conflicts: net.limneos.callrecorder, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
-Description: A tweak to record your calls !
+Section: Tweaks
+Maintainer: OsossTech <ososstech.team@gmail.com>
+Depends: firmware (>= 10.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/Audiorecorder XS.deb
+Description: Record your calls 
 Name: AudioRecorder XS (iOS 12/13)
-Author: Elias Limneos
-Depiction: https://ososstech.github.io/ososstech/
+Author: OsossTech <ososstech.team@gmail.com>
