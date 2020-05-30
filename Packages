@@ -21,8 +21,6 @@ Conflicts: com.unlimapps.uaupdatetools
 Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.5
 Name: AppStore++
 Author: CokePokes
-dev: 
-Homepage: 
 Depiction: https://ososstech.github.io/ososstech/
 
 Package: com.ososstech.cracktool4
