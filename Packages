@@ -10,7 +10,7 @@ Name: SnapBreak
 Author: OsossTech <ososstech.team@gmail.com>
 Icon: ./imgs/SnapBreak.png
 
-Package: com.ososstech.appsrore++
+Package: com.ososstech.appstore++
 Version: 0.9.10
 Section: Tweaks
 Maintainer: OsossTech <ososstech.team@gmail.com>
@@ -43,7 +43,7 @@ Description: Cydia , Zebra , Installer Download Manager & Extra Features!
 Name: CyDown
 Author: OsossTech <ososstech.team@gmail.com>
 
-Package: com.ososstech.snapbreak
+Package: com.ososstech.audiorecorderxs
 Version: 3.5-32
 Section: Tweaks
 Maintainer: OsossTech <ososstech.team@gmail.com>
