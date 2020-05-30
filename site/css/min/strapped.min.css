@@ -1,0 +1,19 @@
+body {
+	background-color: #ecf0f1;
+}
+
+body::-webkit-scrollbar {
+  display: none;
+}
+
+.s{
+	background-color: #fafafa;
+}
+
+.s:hover{
+	background-color: #f3f3f3;
+}
+
+.s:before, .s:after{
+	background-color: #fafafa;
+}
