@@ -8,3 +8,14 @@ Description: A Snapchat tweak that allow you to save/upload medias, disable scre
 Name: SnapBreak
 Author: OsossTech <ososstech.team@gmail.com>
 Icon: ./imgs/SnapBreak.png
+
+Package: com.ososstech.snapbreak
+Version: 1.8.0
+Maintainer: OsossTech <ososstech.team@gmail.com>
+Depends: firmware (>= 10.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/SnapBreak.1.8.0.deb
+Description: A Snapchat tweak that allow you to save/upload medias, disable screenshots and many more features!
+Name: SnapBreak
+Author: OsossTech <ososstech.team@gmail.com>
+Icon: ./imgs/SnapBreak.png
