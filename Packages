@@ -6,5 +6,6 @@ Architecture: iphoneos-arm
 Filename: ./debs/SnapBreak.deb
 Description: A Snapchat tweak that allow you to save/upload medias, disable screenshots and many more features!
 Name: SnapBreak
+Section: Tweak
 Author: OsossTech <ososstech.team@gmail.com>
-Icon: file:///imgs/SnapBreak.png
+Icon: file://imgs/SnapBreak.png
