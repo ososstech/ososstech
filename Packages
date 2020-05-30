@@ -27,7 +27,7 @@ Section: Tweaks
 Maintainer: OsossTech <ososstech.team@gmail.com>
 Depends: firmware (>= 10.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/Cracktool4.deb
+Filename: ./debs/CrackTool4.deb
 Description: Crack Tweaks on one click
 Name: CrackTool4
 Author: OsossTech <ososstech.team@gmail.com>
