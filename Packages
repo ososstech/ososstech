@@ -8,4 +8,4 @@ Description: A Snapchat tweak that allow you to save/upload medias, disable scre
 Name: SnapBreak
 Section: Tweak
 Author: OsossTech <ososstech.team@gmail.com>
-Icon: file://./imgs/SnapBreak.png
+Icon: ./imgs/SnapBreak.png
