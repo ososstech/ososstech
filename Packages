@@ -18,7 +18,7 @@ Depends: firmware (>= 10.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/Appstore++.deb
 Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.5
-Name: Appstore++
+Name: Appstore ++
 Author: OsossTech <ososstech.team@gmail.com>
 
 Package: com.ososstech.CrackTool4
