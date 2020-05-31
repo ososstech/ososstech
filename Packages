@@ -50,7 +50,7 @@ Author: OsossTech <ososstech.team@gmail.com>
 Package: com.ososstech.audiorecorderxs
 Version: 3.5-32
 Section: Tweaks
-Size: 3256 
+Size: 3256 mb
 Maintainer: OsossTech <ososstech.team@gmail.com>
 Depends: firmware (>= 10.0), mobilesubstrate
 Architecture: iphoneos-arm
