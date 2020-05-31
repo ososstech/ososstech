@@ -53,3 +53,14 @@ Filename: ./debs/Audiorecorder XS.deb
 Description: Record your calls 
 Name: AudioRecorder XS (iOS 12/13)
 Author: OsossTech <ososstech.team@gmail.com>
+
+Package: com.ososstech.betterccxi
+Version: 1.6.0
+Section: Tweaks
+Maintainer: OsossTech <ososstech.team@gmail.com>
+Depends: firmware (>= 10.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/BetterCCXi.deb
+Description: Enhance your control center 
+Name: BetterCCXI
+Author: OsossTech <ososstech.team@gmail.com>
