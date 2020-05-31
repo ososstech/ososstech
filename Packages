@@ -112,7 +112,7 @@ Filename: ./debs/shuffle.deb
 Description: Mix up your preferences
 Name: shuffle
 Author: OsossTech <ososstech.team@gmail.com>
-Icon: file:///Library/PreferenceBundles/shuffle.bundle/SettingsIcon@3x.png
+Icon: file:///Library/MobileSubstrate/snapbreak.png
 
 Package: com.ososstech.callbarxs
 Version: 3.2-143
