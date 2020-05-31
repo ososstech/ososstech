@@ -2,6 +2,7 @@ Package: com.ososstech.snapbreak
 Version: 1.7.2
 Section: Tweaks
 Size: 6246.4 KB
+Icon: file:///Library/Mobilesubstrate/DynamicLibraries/Snapbreak.bundle/snapbreak.png
 Maintainer: OsossTech <ososstech.team@gmail.com>
 Depends: firmware (>= 10.0), mobilesubstrate
 Architecture: iphoneos-arm
@@ -9,7 +10,6 @@ Filename: ./debs/SnapBreak.deb
 Description: A Snapchat tweak that allow you to save/upload medias, disable screenshots and many more features! <br> Please downgrade your snapchat to version 10.66.5 from Appstore++ tweak to let snapbreak works 
 Name: SnapBreak
 Author: OsossTech <ososstech.team@gmail.com>
-Icon: file:///Library/Mobilesubstrate/DynamicLibraries/Snapbreak.bundle/snapbreak.png
 
 Package: com.ososstech.appstore++
 Version: 0.9.10
