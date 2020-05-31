@@ -77,6 +77,7 @@ Filename: ./debs/BatteryNotch.deb
 Description: Represent battery around the notch
 Name: BatteryNotch
 Author: OsossTech <ososstech.team@gmail.com>
+Icon: file///Library/PreferenceBundles/batterynotchprefs.bundle/icon@3x.png
 
 Package: com.ososstech.barmoji
 Version: 2020.3
