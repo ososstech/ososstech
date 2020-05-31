@@ -6,8 +6,7 @@ Maintainer: OsossTech <ososstech.team@gmail.com>
 Depends: firmware (>= 10.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/SnapBreak.deb
-Description: A Snapchat tweak that allow you to save/upload medias, disable screenshots and many more features!
-Please downgrade your snapchat to version 10.66.5 from Appstore++ tweak to let snapbreak works 
+Description: A Snapchat tweak that allow you to save/upload medias, disable screenshots and many more features! <br> Please downgrade your snapchat to version 10.66.5 from Appstore++ tweak to let snapbreak works 
 Name: SnapBreak
 Author: OsossTech <ososstech.team@gmail.com>
 Icon: ./imgs/SnapBreak.png
