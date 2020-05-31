@@ -71,9 +71,20 @@ Section: Tweaks
 Maintainer: OsossTech <ososstech.team@gmail.com>
 Depends: firmware (>= 10.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/batterynotch.deb
+Filename: ./debs/BatteryNotch.deb
 Description: Represent battery around the notch
 Name: BatteryNotch
+Author: OsossTech <ososstech.team@gmail.com>
+
+Package: com.ososstech.barmoji
+Version: 2020.3
+Section: Tweaks
+Maintainer: OsossTech <ososstech.team@gmail.com>
+Depends: firmware (>= 10.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/Barmoji.deb
+Description: Quick Emoji Access Bar
+Name: Barmoji
 Author: OsossTech <ososstech.team@gmail.com>
 
 
