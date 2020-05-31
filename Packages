@@ -46,6 +46,7 @@ Filename: ./debs/CyDown.deb
 Description: Cydia , Zebra , Installer Download Manager & Extra Features!
 Name: CyDown
 Author: OsossTech <ososstech.team@gmail.com>
+Icon: file///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
 
 Package: com.ososstech.audiorecorderxs
 Version: 3.5-32
