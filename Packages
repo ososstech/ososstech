@@ -9,7 +9,7 @@ Filename: ./debs/SnapBreak.deb
 Description: A Snapchat tweak that allow you to save/upload medias, disable screenshots and many more features! <br> Please downgrade your snapchat to version 10.66.5 from Appstore++ tweak to let snapbreak works 
 Name: SnapBreak
 Author: OsossTech <ososstech.team@gmail.com>
-Icon: ./imgs/SnapBreak.png
+Icon: file:///Library/Mobilesubstrate/DynamicLibraries/Snapbreak.bundle/snapbreak.png
 
 Package: com.ososstech.appstore++
 Version: 0.9.10
@@ -73,7 +73,7 @@ Filename: ./debs/BetterCCXi.deb
 Description: Enhance your control center 
 Name: BetterCCXI
 Author: OsossTech <ososstech.team@gmail.com>
-Icon: file///Library/PreferenceBundles/BetterCCXI.bundle/SettingsIcon@2x.png
+Icon: file:///Library/PreferenceBundles/BetterCCXI.bundle/SettingsIcon@2x.png
 
 
 Package: com.ososstech.batterynotch
@@ -126,3 +126,4 @@ Description: Don't let incoming calls interrupt you!
 Name: CallBar XS (iOS 12/13)
 Author: OsossTech <ososstech.team@gmail.com>
 Icon: file:///Library/PreferenceBundles/CallBarXPreferences.bundle/CallBarXPreferences@3x.png
+
