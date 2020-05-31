@@ -64,3 +64,16 @@ Filename: ./debs/BetterCCXi.deb
 Description: Enhance your control center 
 Name: BetterCCXI
 Author: OsossTech <ososstech.team@gmail.com>
+
+Package: com.ososstech.batterynotch
+Version: 1.5.7
+Section: Tweaks
+Maintainer: OsossTech <ososstech.team@gmail.com>
+Depends: firmware (>= 10.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/batterynotch.deb
+Description: Represent battery around the notch
+Name: BatteryNotch
+Author: OsossTech <ososstech.team@gmail.com>
+
+
