@@ -53,6 +53,8 @@ Filename: ./debs/Audiorecorder XS.deb
 Description: Record your calls 
 Name: AudioRecorder XS (iOS 12/13)
 Author: OsossTech <ososstech.team@gmail.com>
+Icon: file:///Library/PreferenceBundles/AudioRecorderPreferences.bundle/AudioRecorder@2x.png
+
 
 Package: com.ososstech.betterccxi
 Version: 1.6.0
