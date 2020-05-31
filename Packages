@@ -12,6 +12,7 @@ Icon: ./imgs/SnapBreak.png
 
 Package: com.ososstech.appstore++
 Version: 0.9.10
+Size: 593.87 KB
 Section: Tweaks
 Maintainer: OsossTech <ososstech.team@gmail.com>
 Depends: firmware (>= 10.0), mobilesubstrate
@@ -24,6 +25,7 @@ Author: OsossTech <ososstech.team@gmail.com>
 Package: com.ososstech.CrackTool4
 Version: 4.0~beta9c
 Section: Tweaks
+Size: 504.53 KB
 Maintainer: OsossTech <ososstech.team@gmail.com>
 Depends: firmware (>= 10.0), mobilesubstrate
 Architecture: iphoneos-arm
