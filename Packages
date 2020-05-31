@@ -1,6 +1,7 @@
 Package: com.ososstech.snapbreak
 Version: 1.7.2
 Section: Tweaks
+Size: 6.1 MB
 Maintainer: OsossTech <ososstech.team@gmail.com>
 Depends: firmware (>= 10.0), mobilesubstrate
 Architecture: iphoneos-arm
