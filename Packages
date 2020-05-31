@@ -7,6 +7,7 @@ Depends: firmware (>= 10.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/SnapBreak.deb
 Description: A Snapchat tweak that allow you to save/upload medias, disable screenshots and many more features!
+Please downgrade your snapchat to version 10.66.5 from Appstore++ tweak to let snapbreak works 
 Name: SnapBreak
 Author: OsossTech <ososstech.team@gmail.com>
 Icon: ./imgs/SnapBreak.png
@@ -73,6 +74,8 @@ Filename: ./debs/BetterCCXi.deb
 Description: Enhance your control center 
 Name: BetterCCXI
 Author: OsossTech <ososstech.team@gmail.com>
+Icon: file///Library/PreferenceBundles/BetterCCXI.bundle/SettingsIcon@2x.png
+
 
 Package: com.ososstech.batterynotch
 Version: 1.5.7
@@ -85,7 +88,7 @@ Filename: ./debs/BatteryNotch.deb
 Description: Represent battery around the notch
 Name: BatteryNotch
 Author: OsossTech <ososstech.team@gmail.com>
-Icon: file///Library/PreferenceBundles/batterynotchprefs.bundle/icon@3x.png
+Icon: file:///Library/PreferenceBundles/batterynotchprefs.bundle/icon@3x.png
 
 Package: com.ososstech.barmoji
 Version: 2020.3
@@ -110,6 +113,7 @@ Filename: ./debs/shuffle.deb
 Description: Mix up your preferences
 Name: shuffle
 Author: OsossTech <ososstech.team@gmail.com>
+Icon: file:///Library/PreferenceBundles/shuffle.bundle/SettingsIcon@3x.png
 
 Package: com.ososstech.callbarxs
 Version: 3.2-143
