@@ -51,11 +51,11 @@ Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
 Package: com.ososstech.audiorecorderxs
 Version: 3.5-32
 Section: Tweaks
-Size: 3256 MB
+Size: 4.6 MB
 Maintainer: OsossTech <ososstech.team@gmail.com>
 Depends: firmware (>= 10.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/Audiorecorder XS.deb
+Filename: ./debs/AudiorecorderXS.deb
 Description: A tweak to record your calls 
 Name: AudioRecorder XS (iOS 12/13)
 Author: OsossTech <ososstech.team@gmail.com>
