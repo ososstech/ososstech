@@ -61,7 +61,7 @@ Name: AudioRecorder XS (iOS 12/13)
 Author: OsossTech <ososstech.team@gmail.com>
 Icon: file:///Library/PreferenceBundles/AudioRecorderPreferences.bundle/AudioRecorder@2x.png
 
-Package: com.ososstech.audiorecorderxs
+Package: com.ososstech.limneosos
 Version: 2.0.2
 Section: Tweaks
 Installed-Size: 212
@@ -70,7 +70,7 @@ Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/limneosos.deb
 Description: Some tweaks will need limneosos
-Name: Limneosos
+Name: AudioRecorder XS (iOS 12/13)
 Author: OsossTech <ososstech.team@gmail.com>
 
 Package: com.ososstech.betterccxi
