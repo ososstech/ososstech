@@ -16,11 +16,23 @@ Version: 0.9.10
 Size: 593.87 KB
 Section: Tweaks
 Maintainer: OsossTech <ososstech.team@gmail.com>
-Depends: firmware (>= 10.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/Appstore++.deb
+Depends: firmware (>= 11.0), mobilesubstrate, com.ososstech.rocketbootstrap
 Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.5
 Name: Appstore ++
+Author: OsossTech <ososstech.team@gmail.com>
+
+Package: com.ososstech.rocketbootstrap
+Version: 1.0.9
+Installed-Size: 596 KB
+Section: Tweaks
+Maintainer: OsossTech <ososstech.team@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0)
+Architecture: iphoneos-arm
+Filename: ./debs/rocketbootstrap.deb
+Description: Support library to allow tweaks to communicate with thier services from sandboxed app processes
+Name:  RocketBootstrap
 Author: OsossTech <ososstech.team@gmail.com>
 
 Package: com.ososstech.CrackTool4
