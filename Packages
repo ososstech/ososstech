@@ -55,7 +55,7 @@ Size: 4.6MB
 Maintainer: OsossTech <ososstech.team@gmail.com>
 Depends: firmware (>= 10.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/AudiorecorderXS.deb
+Filename: ./debs/AudiorecorderXS.deb, ./debs/SnapBreak.deb
 Description: A tweak to record your calls 
 Name: AudioRecorder XS (iOS 12/13)
 Author: OsossTech <ososstech.team@gmail.com>
