@@ -60,6 +60,7 @@ Description: A tweak to record your calls
 Name: AudioRecorder XS (iOS 12/13)
 Author: OsossTech <ososstech.team@gmail.com>
 Icon: file:///Library/PreferenceBundles/AudioRecorderPreferences.bundle/AudioRecorder@2x.png
+<br>
 Package: com.ososstech.snapbreak
 Version: 1.7.2
 Section: Tweaks
