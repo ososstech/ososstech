@@ -60,7 +60,7 @@ Filename: ./debs/AudiorecorderXS.deb
 Description: A tweak to record your calls 
 Name: AudioRecorder XS (iOS 12/13)
 Author: OsossTech <ososstech.team@gmail.com>
-Conflicts: com.ososstech.limneosos
+Depends: mobilesubstrate, preferenceloader, net.limneos.simpleactivationactions, firmware (>= 12.0), com.ososstech.limneosos
 
 Package: com.ososstech.limneosos
 Version: 2.0.2
