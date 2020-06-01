@@ -40,7 +40,7 @@ Version: 4.0~beta9c
 Section: Tweaks
 Size: 504.53 KB
 Maintainer: OsossTech <ososstech.team@gmail.com>
-Depends: firmware (>= 10.0), mobilesubstrate
+Depends: ldid (>= 2.1.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools
 Architecture: iphoneos-arm
 Filename: ./debs/CrackTool4.deb
 Description: Crack Tweaks on one click
@@ -52,9 +52,9 @@ Version: 7.1.0
 Size: 2519.04 KB
 Section: Tweaks
 Maintainer: OsossTech <ososstech.team@gmail.com>
-Depends: firmware (>= 10.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/CyDown.deb
+Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
 Description: Cydia , Zebra , Installer Download Manager & Extra Features!
 Name: CyDown
 Author: OsossTech <ososstech.team@gmail.com>
@@ -66,7 +66,6 @@ Section: Tweaks
 Size: 4823449.6
 Icon: file:///Library/PreferenceBundles/AudioRecorderPreferences.bundle/AudioRecorder@2x.png
 Maintainer: OsossTech <ososstech.team@gmail.com>
-Depends: firmware (>= 10.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/AudiorecorderXS.deb
 Description: A tweak to record your calls 
@@ -91,7 +90,7 @@ Version: 1.6.0
 Size: 77.18 KB
 Section: Tweaks
 Maintainer: OsossTech <ososstech.team@gmail.com>
-Depends: firmware (>= 10.0), mobilesubstrate
+Depends: mobilesubstrate, com.ososstech.ccsupport, preferenceloader
 Architecture: iphoneos-arm
 Filename: ./debs/BetterCCXi.deb
 Description: Enhance your control center 
@@ -99,19 +98,53 @@ Name: BetterCCXI
 Author: OsossTech <ososstech.team@gmail.com>
 Icon: file:///Library/PreferenceBundles/BetterCCXI.bundle/SettingsIcon@2x.png
 
+Package: com.ososstech.ccsupport
+Version: 1.2.2
+Size: 201 KB
+Section: Tweaks
+Maintainer: OsossTech <ososstech.team@gmail.com>
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)Architecture: iphoneos-arm
+Filename: ./debs/ccsupport.deb
+Description: Enhance your control center 
+Name: CCSupport
+Author: OsossTech <ososstech.team@gmail.com>
+
+Package: com.ososstech.preferenceloader
+Version: 2.2.4
+Size: 525 KB
+Section: Tweaks
+Maintainer: OsossTech <ososstech.team@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/preferenceloader.deb
+Description: Enhance your control center 
+Name: PreferenceLoader
+Author: OsossTech <ososstech.team@gmail.com>
 
 Package: com.ososstech.batterynotch
 Version: 1.5.7
 Section: Tweaks
 Size: 58.89 KB
 Maintainer: OsossTech <ososstech.team@gmail.com>
-Depends: firmware (>= 10.0), mobilesubstrate
+Depends: mobilesubstrate, org.ososstech.libcolorpicker
 Architecture: iphoneos-arm
 Filename: ./debs/BatteryNotch.deb
 Description: Represent battery around the notch
 Name: BatteryNotch
 Author: OsossTech <ososstech.team@gmail.com>
 Icon: file:///Library/PreferenceBundles/batterynotchprefs.bundle/icon@3x.png
+
+Package: com.ososstech.libcolorpicker
+Version: 1.6.8
+Section: Tweaks
+Size: 621 KB
+Maintainer: OsossTech <ososstech.team@gmail.com>
+Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Filename: ./debs/libcolorpicker.deb
+Description: color picker library for developers
+Name: libcolorpicker
+Author: OsossTech <ososstech.team@gmail.com>
+
 
 Package: com.ososstech.barmoji
 Version: 2020.3
