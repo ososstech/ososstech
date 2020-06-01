@@ -57,9 +57,21 @@ Depends: firmware (>= 10.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/AudiorecorderXS.deb
 Description: A tweak to record your calls 
-Name: AudioRecorder XS (iOS 12/13) new
+Name: AudioRecorder XS (iOS 12/13)
 Author: OsossTech <ososstech.team@gmail.com>
 Icon: file:///Library/PreferenceBundles/AudioRecorderPreferences.bundle/AudioRecorder@2x.png
+
+Package: com.ososstech.limneosos
+Version: 2.0.2
+Section: Tweaks
+Installed-Size: 212
+Maintainer: OsossTech <ososstech.team@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/limneosos.deb
+Description: Some tweaks will need limneosos
+Name: Limneosos
+Author: OsossTech <ososstech.team@gmail.com>
 
 Package: com.ososstech.betterccxi
 Version: 1.6.0
