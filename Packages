@@ -125,7 +125,7 @@ Version: 1.5.7
 Section: Tweaks
 Size: 58.89 KB
 Maintainer: OsossTech <ososstech.team@gmail.com>
-Depends: mobilesubstrate, org.ososstech.libcolorpicker
+Depends: mobilesubstrate, com.ososstech.libcolorpicker
 Architecture: iphoneos-arm
 Filename: ./debs/BatteryNotch.deb
 Description: Represent battery around the notch
