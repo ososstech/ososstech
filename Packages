@@ -151,7 +151,7 @@ Version: 2020.3
 Section: Tweaks
 Size: 53.79 KB
 Maintainer: OsossTech <ososstech.team@gmail.com>
-Depends: firmware (>= 10.0), mobilesubstrate
+Depends: mobilesubstrate , preferenceloader
 Architecture: iphoneos-arm
 Filename: ./debs/Barmoji.deb
 Description: Quick Emoji Access Bar
@@ -163,7 +163,8 @@ Version: 1.2.8
 Section: Tweaks
 Size: 219.98 KB
 Maintainer: OsossTech <ososstech.team@gmail.com>
-Depends: firmware (>= 10.0), mobilesubstrate
+Depends: com.ososstech.libcspreferences
+Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/shuffle.deb
 Description: Mix up your preferences
@@ -171,16 +172,37 @@ Name: shuffle
 Author: OsossTech <ososstech.team@gmail.com>
 Icon: file:///Library/MobileSubstrate/snapbreak.png
 
+Package: com.ososstech.libcspreferences
+Version: 1.4.3
+Section: Tweaks
+Installed-Size: 4900 KB
+Maintainer: OsossTech <ososstech.team@gmail.com>
+Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: ./debs/libcspreferences.deb
+Description: A Preference Library that doesn't suck!
+Name: libCSPreferences
+Author: OsossTech <ososstech.team@gmail.com>
+
 Package: com.ososstech.callbarxs
 Version: 3.2-143
 Size: 287.79 KB
 Section: Tweaks
 Maintainer: OsossTech <ososstech.team@gmail.com>
-Depends: firmware (>= 10.0), mobilesubstrate
-Architecture: iphoneos-arm
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12), com.ososstech.simpleactivationactions, com.ososstech.limneosos
 Filename: ./debs/callbarxs.deb
 Description: Don't let incoming calls interrupt you!
 Name: CallBar XS (iOS 12/13)
 Author: OsossTech <ososstech.team@gmail.com>
 Icon: file:///Library/PreferenceBundles/CallBarXPreferences.bundle/CallBarXPreferences@3x.png
 
+Package: com.ososstech.simpleactivationactions
+Version: 0.1-1
+Installed-Size: 107 KB
+Section: Tweaks
+Maintainer: OsossTech <ososstech.team@gmail.com>
+Depends: mobilesubstrate, firmware (>= 10.0)Architecture: iphoneos-arm
+Filename: ./debs/simpleactivationactions.deb
+Description:
+Name: SimpleActivationActions
+Author: OsossTech <ososstech.team@gmail.com>
