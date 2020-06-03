@@ -13,7 +13,7 @@ Author: OsossTech <ososstech.team@gmail.com>
 
 Package: com.ososstech.appstore++
 Version: 0.9.10
-Size: 593.87 KB
+Size: 608122.88
 Section: Tweaks
 Maintainer: OsossTech <ososstech.team@gmail.com>
 Architecture: iphoneos-arm
@@ -25,7 +25,7 @@ Author: OsossTech <ososstech.team@gmail.com>
 
 Package: com.ososstech.rocketbootstrap
 Version: 1.0.9
-Installed-Size: 596 KB
+Installed-Size: 37191.68
 Section: Tweaks
 Maintainer: OsossTech <ososstech.team@gmail.com>
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0)
@@ -38,7 +38,7 @@ Author: OsossTech <ososstech.team@gmail.com>
 Package: com.ososstech.CrackTool4
 Version: 4.0~beta9c
 Section: Tweaks
-Size: 504.53 KB
+Size: 516587.52
 Maintainer: OsossTech <ososstech.team@gmail.com>
 Depends: ldid (>= 2.1.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools
 Architecture: iphoneos-arm
@@ -49,7 +49,7 @@ Author: OsossTech <ososstech.team@gmail.com>
 
 Package: com.ososstech.cydown
 Version: 7.1.0
-Size: 2519.04 KB
+Size: 4330618.88
 Section: Tweaks
 Maintainer: OsossTech <ososstech.team@gmail.com>
 Architecture: iphoneos-arm
@@ -63,7 +63,7 @@ Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
 Package: com.ososstech.audiorecorderxs 
 Version: 3.5-32
 Section: Tweaks
-Size: 4823449.6
+Size: 3502243.84
 Icon: file:///Library/PreferenceBundles/AudioRecorderPreferences.bundle/AudioRecorder@2x.png
 Maintainer: OsossTech <ososstech.team@gmail.com>
 Architecture: iphoneos-arm
@@ -76,7 +76,7 @@ Depends: mobilesubstrate, preferenceloader, net.limneos.simpleactivationactions,
 Package: com.ososstech.limneosos
 Version: 2.0.2
 Section: Tweaks
-Installed-Size: 212
+Size: 23910.4
 Maintainer: OsossTech <ososstech.team@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
@@ -87,7 +87,7 @@ Author: OsossTech <ososstech.team@gmail.com>
 
 Package: com.ososstech.betterccxi
 Version: 1.6.0
-Size: 77.18 KB
+Size: 79032.32
 Section: Tweaks
 Maintainer: OsossTech <ososstech.team@gmail.com>
 Depends: mobilesubstrate, com.ososstech.ccsupport, preferenceloader
@@ -100,7 +100,7 @@ Icon: file:///Library/PreferenceBundles/BetterCCXI.bundle/SettingsIcon@2x.png
 
 Package: com.ososstech.ccsupport
 Version: 1.2.2
-Size: 201 KB
+Size: 35307.52
 Section: Tweaks
 Maintainer: OsossTech <ososstech.team@gmail.com>
 Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)Architecture: iphoneos-arm
@@ -111,7 +111,7 @@ Author: OsossTech <ososstech.team@gmail.com>
 
 Package: com.ososstech.preferenceloader
 Version: 2.2.4
-Size: 525 KB
+Size: 32645.12
 Section: Tweaks
 Maintainer: OsossTech <ososstech.team@gmail.com>
 Depends: mobilesubstrate
@@ -123,7 +123,7 @@ Author: OsossTech <ososstech.team@gmail.com>
 Package: com.ososstech.batterynotch
 Version: 1.5.7
 Section: Tweaks
-Size: 58.89 KB
+Size: 96675.84
 Maintainer: OsossTech <ososstech.team@gmail.com>
 Depends: mobilesubstrate, com.ososstech.libcolorpicker
 Architecture: iphoneos-arm
@@ -136,7 +136,7 @@ Icon: file:///Library/PreferenceBundles/batterynotchprefs.bundle/icon@3x.png
 Package: com.ososstech.libcolorpicker
 Version: 1.6.8
 Section: Tweaks
-Size: 621 KB
+Size: 110407.68
 Maintainer: OsossTech <ososstech.team@gmail.com>
 Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000)
 Architecture: iphoneos-arm
@@ -149,7 +149,7 @@ Author: OsossTech <ososstech.team@gmail.com>
 Package: com.ososstech.barmoji
 Version: 2020.3
 Section: Tweaks
-Size: 53.79 KB
+Size: 55080.96
 Maintainer: OsossTech <ososstech.team@gmail.com>
 Depends: mobilesubstrate , preferenceloader
 Architecture: iphoneos-arm
@@ -161,7 +161,7 @@ Author: OsossTech <ososstech.team@gmail.com>
 Package: com.ososstech.shuffle
 Version: 1.2.8
 Section: Tweaks
-Size: 219.98 KB
+Size: 225259.52
 Maintainer: OsossTech <ososstech.team@gmail.com>
 Depends: com.ososstech.libcspreferences
 Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | mobilesubstrate
@@ -175,7 +175,7 @@ Icon: file:///Library/MobileSubstrate/snapbreak.png
 Package: com.ososstech.libcspreferences
 Version: 1.4.3
 Section: Tweaks
-Installed-Size: 4900 KB
+Size: 673679.36
 Maintainer: OsossTech <ososstech.team@gmail.com>
 Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm
@@ -186,7 +186,7 @@ Author: OsossTech <ososstech.team@gmail.com>
 
 Package: com.ososstech.callbarxs
 Version: 3.2-143
-Size: 287.79 KB
+Size: 273889.28
 Section: Tweaks
 Maintainer: OsossTech <ososstech.team@gmail.com>
 Depends: mobilesubstrate, preferenceloader, firmware (>= 12), com.ososstech.simpleactivationactions, com.ososstech.limneosos
@@ -198,7 +198,7 @@ Icon: file:///Library/PreferenceBundles/CallBarXPreferences.bundle/CallBarXPrefe
 
 Package: com.ososstech.simpleactivationactions
 Version: 0.1-1
-Installed-Size: 107 KB
+Size: 5928.96
 Section: Tweaks
 Maintainer: OsossTech <ososstech.team@gmail.com>
 Depends: mobilesubstrate, firmware (>= 10.0)Architecture: iphoneos-arm
