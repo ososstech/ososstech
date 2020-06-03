@@ -1,7 +1,7 @@
 Package: com.ososstech.snapbreak
 Version: 1.7.2
 Section: Tweaks
-Size: 6246.4 KB
+Size: 6396313.6
 Icon: file:///Library/Mobilesubstrate/DynamicLibraries/Snapbreak.bundle/snapbreak.png
 Maintainer: OsossTech <ososstech.team@gmail.com>
 Depends: firmware (>= 10.0), mobilesubstrate
