@@ -9,7 +9,7 @@ Architecture: iphoneos-arm
 Filename: ./debs/SnapBreak.deb
 Description: A Snapchat tweak that allow you to save/upload medias, disable screenshots and many more features! <br> Please downgrade your snapchat to version 10.66.5 from Appstore++ tweak to let snapbreak works 
 Name: SnapBreak
-Author: OsossTech <ososstech.team@gmail.com>
+Author: ios4me
 
 Package: com.ososstech.appstore++
 Version: 0.9.10
@@ -33,7 +33,7 @@ Architecture: iphoneos-arm
 Filename: ./debs/rocketbootstrap.deb
 Description: Support library to allow tweaks to communicate with thier services from sandboxed app processes
 Name:  RocketBootstrap
-Author: OsossTech <ososstech.team@gmail.com>
+Author: Ryan Petrich
 
 Package: com.ososstech.CrackTool4
 Version: 4.0~beta9c
@@ -45,7 +45,7 @@ Architecture: iphoneos-arm
 Filename: ./debs/CrackTool4.deb
 Description: Crack Tweaks on one click
 Name: CrackTool4
-Author: OsossTech <ososstech.team@gmail.com>
+Author: julioverne
 
 Package: com.ososstech.cydown
 Version: 7.1.0
@@ -57,7 +57,7 @@ Filename: ./debs/CyDown.deb
 Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
 Description: Cydia , Zebra , Installer Download Manager & Extra Features!
 Name: CyDown
-Author: OsossTech <ososstech.team@gmail.com>
+Author: julioverne
 Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
 
 Package: com.ososstech.audiorecorderxs 
@@ -70,7 +70,7 @@ Architecture: iphoneos-arm
 Filename: ./debs/AudiorecorderXS.deb
 Description: A tweak to record your calls 
 Name: AudioRecorder XS (iOS 12/13)
-Author: OsossTech <ososstech.team@gmail.com>
+Author: Elias Limneos
 Depends: mobilesubstrate, preferenceloader, net.limneos.simpleactivationactions, firmware (>= 12.0), com.ososstech.limneosos
 
 Package: com.ososstech.limneosos
@@ -83,7 +83,7 @@ Architecture: iphoneos-arm
 Filename: ./debs/limneosos.deb
 Description: Some tweaks will need limneosos
 Name: Limneosos
-Author: OsossTech <ososstech.team@gmail.com>
+Author: Elias Limneos
 
 Package: com.ososstech.betterccxi
 Version: 1.6.0
@@ -95,7 +95,7 @@ Architecture: iphoneos-arm
 Filename: ./debs/BetterCCXi.deb
 Description: Enhance your control center 
 Name: BetterCCXI
-Author: OsossTech <ososstech.team@gmail.com>
+Author: ATWiiks
 Icon: file:///Library/PreferenceBundles/BetterCCXI.bundle/SettingsIcon@2x.png
 
 Package: com.ososstech.ccsupport
@@ -107,7 +107,7 @@ Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)Architecture: iphoneos
 Filename: ./debs/ccsupport.deb
 Description: Enhance your control center 
 Name: CCSupport
-Author: OsossTech <ososstech.team@gmail.com>
+Author: opa334
 
 Package: com.ososstech.preferenceloader
 Version: 2.2.4
@@ -118,7 +118,7 @@ Depends: mobilesubstrate
 Filename: ./debs/preferenceloader.deb
 Description: Enhance your control center 
 Name: PreferenceLoader
-Author: OsossTech <ososstech.team@gmail.com>
+Author: Sam Bingner
 
 Package: com.ososstech.batterynotch
 Version: 1.5.7
@@ -130,7 +130,7 @@ Architecture: iphoneos-arm
 Filename: ./debs/BatteryNotch.deb
 Description: Represent battery around the notch
 Name: BatteryNotch
-Author: OsossTech <ososstech.team@gmail.com>
+Author: gilshahar7
 Icon: file:///Library/PreferenceBundles/batterynotchprefs.bundle/icon@3x.png
 
 Package: com.ososstech.libcolorpicker
@@ -143,7 +143,7 @@ Architecture: iphoneos-arm
 Filename: ./debs/libcolorpicker.deb
 Description: color picker library for developers
 Name: libcolorpicker
-Author: OsossTech <ososstech.team@gmail.com>
+Author: PixelFire
 
 
 Package: com.ososstech.barmoji
@@ -156,7 +156,7 @@ Architecture: iphoneos-arm
 Filename: ./debs/Barmoji.deb
 Description: Quick Emoji Access Bar
 Name: Barmoji
-Author: OsossTech <ososstech.team@gmail.com>
+Author: CP Digital Darkroom
 
 Package: com.ososstech.shuffle
 Version: 1.2.8
@@ -169,7 +169,7 @@ Architecture: iphoneos-arm
 Filename: ./debs/shuffle.deb
 Description: Mix up your preferences
 Name: shuffle
-Author: OsossTech <ososstech.team@gmail.com>
+Author: CreatureSurvive
 Icon: file:///Library/MobileSubstrate/snapbreak.png
 
 Package: com.ososstech.libcspreferences
@@ -182,7 +182,7 @@ Architecture: iphoneos-arm
 Filename: ./debs/libcspreferences.deb
 Description: A Preference Library that doesn't suck!
 Name: libCSPreferences
-Author: OsossTech <ososstech.team@gmail.com>
+Author: CreatureSurvive
 
 Package: com.ososstech.callbarxs
 Version: 3.2-143
@@ -193,7 +193,7 @@ Depends: mobilesubstrate, preferenceloader, firmware (>= 12), com.ososstech.simp
 Filename: ./debs/callbarxs.deb
 Description: Don't let incoming calls interrupt you!
 Name: CallBar XS (iOS 12/13)
-Author: OsossTech <ososstech.team@gmail.com>
+Author: Elias Limneos
 Icon: file:///Library/PreferenceBundles/CallBarXPreferences.bundle/CallBarXPreferences@3x.png
 
 Package: com.ososstech.simpleactivationactions
@@ -205,4 +205,4 @@ Depends: mobilesubstrate, firmware (>= 10.0)Architecture: iphoneos-arm
 Filename: ./debs/simpleactivationactions.deb
 Description:
 Name: SimpleActivationActions
-Author: OsossTech <ososstech.team@gmail.com>
+Author: Elias Limneos
