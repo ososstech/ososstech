@@ -21,7 +21,7 @@ Filename: ./debs/Appstore++.deb
 Depends: firmware (>= 11.0), mobilesubstrate, com.ososstech.rocketbootstrap
 Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.5
 Name: Appstore ++
-Author: OsossTech <ososstech.team@gmail.com>
+Author: CokePokes
 
 Package: com.ososstech.rocketbootstrap
 Version: 1.0.9
