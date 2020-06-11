@@ -207,13 +207,17 @@ Description:
 Name: SimpleActivationActions
 Author: Elias Limneos
 
-Package: net.kenhtao.fbdarkmode
+Package: com.osostech.fbdarkmode
 Version: 1.0.1k
 Size: 9984
 Section: Tweaks
 Maintainer: OsossTech <ososstech.team@gmail.com>
 Depends: mobilesubstrate
-Filename: ./debs/Facebook Dark Mode.deb
+Conflicts: com.hackyouriphone.fbdarkmode
+Sileodepiction: https://repo.kenhtao.net/sileo-depiction/fbdarkmode
+Depiction: https://ososstech.github.io/ososstech/
+Icon: file:///Applications/Cydia.app/Sections/bandem.png
+Filename: ./debs/fbdrk.deb
 Description: Darkmode for Facebook !
 Name: Facebook Dark Mode
 Author: p0358
