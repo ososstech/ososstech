@@ -206,3 +206,14 @@ Filename: ./debs/simpleactivationactions.deb
 Description:
 Name: SimpleActivationActions
 Author: Elias Limneos
+
+Package: com.ososstech.facebookdarkmode
+Version: 1.0.1k
+Size: 9984
+Section: Tweaks
+Maintainer: OsossTech <ososstech.team@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/Facebook Dark Mode.deb
+Description: Darkmode for Facebook !
+Name: Facebook Dark Mode
+Author: p0358
