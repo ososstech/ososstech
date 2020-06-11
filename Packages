@@ -207,7 +207,7 @@ Description:
 Name: SimpleActivationActions
 Author: Elias Limneos
 
-Package: com.ososstech.facebookdarkmode
+Package: com.ososstech.fbdarkmode
 Version: 1.0.1k
 Size: 9984
 Section: Tweaks
